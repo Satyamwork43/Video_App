@@ -209,7 +209,7 @@
             ],
             "fps": 25.0
         },
-        "genders": 
+        "genders": [
             "Female"
         ],
         "classification": "indoors"
