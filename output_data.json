@@ -78,6 +78,7 @@
         },
         "genders": [
             "Female",
+            "Male"
         ],
         "classification": "outdoors"
     },
@@ -110,6 +111,7 @@
         },
         "genders": [
             "Female",
+            "Male"
         ],
         "classification": "outdoors"
     },
@@ -126,6 +128,7 @@
         },
         "genders": [
             "Female",
+            "Male"
         ],
         "classification": "outdoors"
     },
@@ -158,6 +161,7 @@
         },
         "genders": [
             "Female",
+            "Male"
         ],
         "classification": "outdoors"
     },
@@ -305,6 +309,7 @@
         },
         "genders": [
             "Female",
+            "Male"
         ],
         "classification": "indoors"
     },
@@ -337,6 +342,7 @@
         },
         "genders": [
             "Female",
+            "Male"
         ],
         "classification": "outdoors"
     },
